@@ -89,15 +89,6 @@ Ao longo da minha carreira, passei por posições de **liderança técnica** e *
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-Cabral&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-Cabral&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center">
   <i>"Apaixonado por tecnologia e games"</i> 🎮
 </p>
